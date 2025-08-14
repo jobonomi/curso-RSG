@@ -3,6 +3,7 @@
 .Rapp.history
 datos/
 ignore.txt
+.csv
 
 # Session Data files
 .RData
